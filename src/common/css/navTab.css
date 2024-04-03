@@ -1,0 +1,9 @@
+.tab {
+    padding: 10px;
+    background-color: #eee;
+    cursor: hand;
+    cursor: pointer;
+    border-left: 10px solid #ccc;
+    row-gap: 10px;
+    margin-left: 20px;
+}

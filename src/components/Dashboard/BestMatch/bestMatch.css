@@ -1,0 +1,22 @@
+.petHeader{
+  display: flex;
+  justify-content: space-between;
+  font-weight: 500;
+}
+.adopterItem {
+  display: flex;
+  justify-content: center;
+  border: 1px solid;
+  font-weight: 700;
+}
+.petSection {
+  flex-direction: row;
+  display: flex;
+}
+.petSection .item {
+  flex: 1; 
+  justify-content: center;
+  background: #efefefef;
+  border: none;
+}
+
